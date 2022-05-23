@@ -1,16 +1,20 @@
 import React from 'react'
 import {Navbar, Container, Nav, NavDropdown} from 'react-bootstrap'
+import './Header.css'
 
 const Header = () => {
   return (
     <header>
-    <Navbar bg = "transparent" variant="light" expand="lg" style = {{padding: "1vh 2vw"}}>
+    <Navbar className="nav-bg" variant="light" expand="lg" style = {{padding: "1.5vh 2vw"}}>
     <Navbar.Brand style = {{color:"#071736", fontWeight:"600"}} href="#home">candid</Navbar.Brand>
     <Navbar.Toggle aria-controls="basic-navbar-nav" />
     <Navbar.Collapse id="basic-navbar-nav">
       <Nav className="ml-auto">
         <Nav.Link style = {{color:"#071736"}} href="/publications">Publications</Nav.Link>
         <Nav.Link style = {{color:"#071736"}} href="/blog">Blog</Nav.Link>
+        <Nav.Link style = {{color:"#071736"}} href="/projects">Projects</Nav.Link>
+        <Nav.Link style = {{color:"#071736"}} href="/resources">Resources</Nav.Link>
+        <Nav.Link style = {{color:"#071736"}} href="/people">People</Nav.Link>
       </Nav>
     </Navbar.Collapse>
 </Navbar>
