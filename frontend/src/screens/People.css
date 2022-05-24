@@ -1,3 +1,31 @@
-.shadow-grid { 
-    box-shadow: 5px 5px 100px #edf1f8;
-  }
+.t-image {
+  padding: 3vw;
+}
+
+h1 {
+  color: #071736;
+}
+
+h4 {
+  font-size: 20px;
+  color: #071736;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+h5 {
+  font-weight: normal;
+  font-size: medium;
+  text-align: center;
+  color: #0d3075;
+}
+
+h6 {
+  font-weight: normal;
+  text-align: center;
+  color:#0d3075;
+  font-size: small;
+}

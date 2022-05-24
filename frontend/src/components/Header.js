@@ -9,7 +9,6 @@ const Header = () => {
     <Navbar.Toggle aria-controls="basic-navbar-nav" />
     <Navbar.Collapse id="basic-navbar-nav">
       <Nav className="ml-auto">
-        <Nav.Link style = {{color:"#071736"}} href="/publications">Publications</Nav.Link>
         <Nav.Link style = {{color:"#071736"}} href="/projects">Projects</Nav.Link>
         <Nav.Link style = {{color:"#071736"}} href="/team">Team</Nav.Link>
         <Nav.Link style = {{color:"#071736"}} href="/resources">Resources</Nav.Link>

@@ -4,7 +4,7 @@ import Header from './components/Header'
 import Footer from './components/Footer'
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from './screens/Home'
-import People from './screens/People'
+import Team from './screens/Team'
 
 function App() {
   return (
@@ -13,7 +13,7 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path='/' element={<Home />} />
-        <Route path='/team' element={<People/>}/>
+        <Route path='/team' element={<Team/>}/>
       </Routes>
     </BrowserRouter>
     <Footer />
