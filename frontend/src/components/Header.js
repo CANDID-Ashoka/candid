@@ -1,6 +1,5 @@
 import React from 'react'
 import {Navbar, Container, Nav, NavDropdown} from 'react-bootstrap'
-import './Header.css'
 
 const Header = () => {
   return (
@@ -11,10 +10,11 @@ const Header = () => {
     <Navbar.Collapse id="basic-navbar-nav">
       <Nav className="ml-auto">
         <Nav.Link style = {{color:"#071736"}} href="/publications">Publications</Nav.Link>
-        <Nav.Link style = {{color:"#071736"}} href="/blog">Blog</Nav.Link>
         <Nav.Link style = {{color:"#071736"}} href="/projects">Projects</Nav.Link>
+        <Nav.Link style = {{color:"#071736"}} href="/team">Team</Nav.Link>
         <Nav.Link style = {{color:"#071736"}} href="/resources">Resources</Nav.Link>
-        <Nav.Link style = {{color:"#071736"}} href="/people">People</Nav.Link>
+        <Nav.Link style = {{color:"#071736"}} href="/blog">Blog</Nav.Link>
+
       </Nav>
     </Navbar.Collapse>
 </Navbar>
