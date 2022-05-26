@@ -9,10 +9,10 @@ const Header = () => {
     <Navbar.Toggle aria-controls="basic-navbar-nav" />
     <Navbar.Collapse id="basic-navbar-nav">
       <Nav className="ml-auto">
-        <Nav.Link style = {{color:"#071736"}} href="/projects">Projects</Nav.Link>
-        <Nav.Link style = {{color:"#071736"}} href="/team">Team</Nav.Link>
-        <Nav.Link style = {{color:"#071736"}} href="/resources">Resources</Nav.Link>
-        <Nav.Link style = {{color:"#071736"}} href="/blog">Blog</Nav.Link>
+        <Nav.Link style = {{color:"#071736"}} href="/candid/projects">Projects</Nav.Link>
+        <Nav.Link style = {{color:"#071736"}} href="/candid/team">Team</Nav.Link>
+        <Nav.Link style = {{color:"#071736"}} href="/candid/resources">Resources</Nav.Link>
+        <Nav.Link style = {{color:"#071736"}} href="/candid/blog">Blog</Nav.Link>
 
       </Nav>
     </Navbar.Collapse>

@@ -6,7 +6,7 @@ const home = () => {
     <>
           <div style={{padding:"48vh 0 3vh 3vw", display:"flex", flexDirection:"column", textAlign:"left", justifyContent:'flex-start', alignItems: 'baseline', backgroundColor:"#dbe8ff"}}>
             <h1 style = {{fontSize:"10vw", color:"#071736"}}>candid.</h1>
-            <h2 style = {{fontSize:"2.5vw", fontWeight:"500", color:"#071736"}}>Centre for Analysis of Networks Data and Insight Derivation</h2>
+            <h2 style = {{fontSize:"2.5vw", fontWeight:"500", color:"#071736"}}>Centre for Analysis of Network Data and Insight Derivation</h2>
             <h3 style = {{fontSize:"2vw", fontWeight:"300", color:"#071736", paddingTop:"1vh"}}>Ashoka University, India</h3>
           </div>
         <div style={{display:"flex", flexDirection:"column", textAlign:"left", justifyContent:'flex-start', alignItems: 'baseline', backgroundColor:"#c7dbff"}}>
