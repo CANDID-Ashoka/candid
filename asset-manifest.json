@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/candid/static/css/main.36238af8.css",
-    "main.js": "/candid/static/js/main.7e416d5c.js",
+    "main.css": "/candid/static/css/main.7228a5c7.css",
+    "main.js": "/candid/static/js/main.285ab0e6.js",
     "static/js/787.cda612ba.chunk.js": "/candid/static/js/787.cda612ba.chunk.js",
     "static/media/bootstrap-icons.woff?": "/candid/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
     "static/media/bootstrap-icons.woff2?": "/candid/static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
@@ -15,12 +15,12 @@
     "static/media/Debayan.png": "/candid/static/media/Debayan.20b3bb45b470a443fbd1.png",
     "static/media/logo.svg": "/candid/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/candid/index.html",
-    "main.36238af8.css.map": "/candid/static/css/main.36238af8.css.map",
-    "main.7e416d5c.js.map": "/candid/static/js/main.7e416d5c.js.map",
+    "main.7228a5c7.css.map": "/candid/static/css/main.7228a5c7.css.map",
+    "main.285ab0e6.js.map": "/candid/static/js/main.285ab0e6.js.map",
     "787.cda612ba.chunk.js.map": "/candid/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.36238af8.css",
-    "static/js/main.7e416d5c.js"
+    "static/css/main.7228a5c7.css",
+    "static/js/main.285ab0e6.js"
   ]
 }
